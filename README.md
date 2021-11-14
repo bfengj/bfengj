@@ -4,7 +4,7 @@
 </a>
 
 
-- 🔭 最菜的ctf web狗 @JK @Th0r
+- 🔭 最菜的CTF Web狗 @JK @Th0r
 - 🌱 西北工业大学 信息安全专业
 - 👯 Learning Java and Go，慢慢提高代码能力。
 - 🤔 梦想着成为pwn👴👴
