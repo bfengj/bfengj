@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**bfengj/bfengj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there 👋 I'm feng！
+- 🔭 最菜的ctf web狗 @JK @Th0r
+- 🌱 西北工业大学 网络空间安全学院 信息安全专业
+- 👯 Learning Java and Go
+- 🤔 梦想着成为pwn👴👴
+- 💬 QQ:3383688993
+- 📫 blog:https://ego00.blog.csdn.net/
+- ⚡ 听音乐 看小说 吃吃喝喝
+- 😄 保研加油！一定成功！
+- 
