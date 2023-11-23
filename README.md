@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm feng！
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bfengj&hide=&show_icons=true&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bfengj&show_icons=true&theme=radical&count_private=true&show_icons=true" />
 </a>
 
 
