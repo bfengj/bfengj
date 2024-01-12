@@ -9,7 +9,6 @@
 - 🌱 研究生: IIE 研一弟弟
 - 👯 目前研究Cloud Security
 - 🤔 学不会Java和渗透
-- 💬 Ask me about anything on sulishi141592653@gmail.com
 - 😄 三年后会是什么样呢？
 
 
