@@ -4,7 +4,7 @@
 </a>
 
 
-- 🔭 最菜的CTF Web狗 @JK @Th0r @Dest0g3(已退役)
+- 🔭 最菜的CTF Web狗(已退役) @JK @Th0r @Dest0g3
 - ⚡  本科: 西北工业大学
 - 🌱 研究生: IIE 研一弟弟
 - 👯 目前研究Cloud Security
